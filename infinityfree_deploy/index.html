@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="id">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta http-equiv="Content-Security-Policy" content="default-src 'self'; img-src 'self' data: https:; style-src 'self' 'unsafe-inline'; script-src 'self'; object-src 'none'; base-uri 'self'; frame-ancestors 'none'; form-action 'self'; upgrade-insecure-requests" />
+    <meta http-equiv="X-Content-Type-Options" content="nosniff" />
+    <meta http-equiv="Referrer-Policy" content="strict-origin-when-cross-origin" />
+    <meta http-equiv="Permissions-Policy" content="geolocation=(), microphone=(), camera=()" />
+    <meta http-equiv="Cross-Origin-Opener-Policy" content="same-origin" />
+    <meta http-equiv="Cross-Origin-Resource-Policy" content="same-origin" />
+    <title>Portofolio Saya</title>
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+  <body>
+    <header class="hero">
+      <div class="container hero-content">
+        <div class="hero-text">
+          <p class="eyebrow">Portofolio Saya</p>
+          <h1 id="name">Memuat data...</h1>
+          <p id="title" class="subtitle">Memuat data...</p>
+          <p id="summary" class="summary"></p>
+          <div class="hero-actions">
+            <a href="#projects" class="btn btn-primary">Lihat Project</a>
+            <a href="#skills" class="btn btn-secondary">Lihat Skill</a>
+          </div>
+        </div>
+        <div class="hero-card">
+          <div class="profile-photo-wrap">
+            <img id="profilePhoto" src="/images/2222500135.jpg" alt="Foto Laurentius Frandyka Lionel Enrico" class="profile-photo" />
+          </div>
+          <h3>Laurentius Frandyka Lionel Enrico</h3>
+          <p id="subtitle">Web Developer</p>
+          <div class="contact-info" id="heroContact"></div>
+        </div>
+      </div>
+    </header>
+
+    <main class="container">
+      <section class="card" id="about">
+        <h2>Tentang Saya</h2>
+        <p id="aboutText"></p>
+      </section>
+
+      <!-- Kontak ditampilkan hanya di hero (hapus duplikasi) -->
+
+      <section class="card" id="certificates">
+        <h2>Certificate & Sertifikasi</h2>
+        <div id="certificateCards" class="certificate-grid"></div>
+      </section>
+
+      <section class="card" id="projects">
+        <h2>Project</h2>
+        <div id="projectList" class="grid"></div>
+      </section>
+
+      <section class="card" id="experience">
+        <h2>Pengalaman Kerja</h2>
+        <div id="experienceList" class="list"></div>
+      </section>
+
+      <section class="card" id="skills">
+        <h2>Skill</h2>
+        <div id="skillList" class="chip-list"></div>
+      </section>
+    </main>
+
+    <script src="app.js"></script>
+  </body>
+</html>

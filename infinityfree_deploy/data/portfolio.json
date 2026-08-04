@@ -1,0 +1,89 @@
+{
+  "name": "Laurentius Frandyka Lionel Enrico",
+  "title": "Web Developer",
+  "subtitle": "Saya adalah seorang Web Developer yang fokus membangun antarmuka yang rapi, pengalaman pengguna yang nyaman, dan solusi digital yang fungsional untuk kebutuhan bisnis maupun personal.",
+  "profileImage": "/images/2222500135.jpg",
+  "summary": "Saya adalah seorang pengembang web yang fokus membangun aplikasi yang fungsional, estetis, dan mudah digunakan. Saya tertarik pada pengembangan web modern, desain antarmuka, serta menciptakan solusi digital yang membantu pengguna dan bisnis dalam menyelesaikan kebutuhan sehari-hari.",
+  "graduation": "Lulus: 17 Oktober 2026",
+  "gpa": "IPK: 3.9",
+  "education": "Atma Luhur Pangkal Pinang",
+  "aboutText": "Saya adalah seorang Web Developer yang terbiasa membangun aplikasi web dengan pendekatan yang terstruktur, efisien, dan user-centered. Saya memiliki ketertarikan pada pengembangan frontend, desain antarmuka, serta pembuatan pengalaman pengguna yang bersih, intuitif, dan nyaman digunakan. Dalam setiap proyek, saya berusaha menggabungkan teknologi yang relevan dengan kebutuhan pengguna agar menghasilkan solusi yang tidak hanya menarik secara visual, tetapi juga fungsional dan mudah diakses. Saya senang belajar hal-hal baru, memecahkan masalah secara logis, dan terus mengembangkan kemampuan teknis saya agar dapat memberikan hasil terbaik dalam setiap pekerjaan.",
+  "contact": {
+    "whatsapp": "083175088167",
+    "email": "laurentiusenrico93@gmail.com",
+    "linkedin": "https://www.linkedin.com/in/laurentius-enrico/",
+    "github": "https://github.com/Tius960"
+  },
+  "certificates": [
+    {
+      "title": "ALEPT English",
+      "issuer": "Atma Luhur",
+      "image": "/images/Laurentius Frandyka Lionel E_ALEPT Certificate 2026.pdf",
+      "preview": "/images/Laurentius Frandyka Lionel E_ALEPT Certificate 2026.png",
+      "description": "ALEPT certificate (English proficiency)."
+    },
+    {
+      "title": "Sertifikat Kompetensi",
+      "issuer": "Kemdikbud",
+      "image": "/images/Sertifikat Kompetensi _ Kemdikbud.pdf",
+      "preview": "/images/sertifikat_kompetensi.png",
+      "description": "Sertifikat kompetensi resmi dari Kemdikbud."
+    }
+  ],
+  "projects": [
+    {
+      "name": "Aplikasi Perhitungan Pengolahan Sawit",
+      "description": "Aplikasi perhitungan hasil pengolahan sawit — alat bantu sederhana untuk menghitung berat dan hasil produksi.",
+      "images": [
+        "/images/detail%20hadir.png",
+        "/images/home.png",
+        "/images/kehadiran.png"
+      ]
+    },
+    {
+      "name": "Fashion E-Commerce",
+      "description": "Website belanja fashion modern dengan tampilan responsif.",
+      "images": [
+        "/images/baju.png",
+        "/images/dashboard.png",
+        "/images/detail%20pesanan.png"
+      ]
+    },
+    {
+      "name": "Sistem Perpustakaan",
+      "description": "Website perpustakaan untuk kelola peminjaman dan kunjungan sekolah.",
+      "images": [
+        "/images/daftar%20buku.png",
+        "/images/entry%20peminjaman.png",
+        "/images/halaman%20siswa.png"
+      ]
+    },
+    {
+      "name": "Profil Perusahaan Game",
+      "description": "Landing page perusahaan game yang menonjolkan identitas brand.",
+      "images": [
+        "/images/home_game.png",
+        "/images/feature.png",
+        "/images/content.png"
+      ]
+    }
+  ],
+  "experience": [
+    {
+      "company": "Bangka Pos",
+      "period": "Februari 2021 - Mei 2021",
+      "role": "Content Creator, News Editor"
+    }
+  ],
+  "skills": [
+    "HTML",
+    "CSS",
+    "JavaScript",
+    "PHP",
+    "Figma",
+    "Adobe Photoshop",
+    "Laragon",
+    "XAMPP",
+    "Firebase"
+  ]
+}
